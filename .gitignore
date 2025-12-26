@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# Streamlit cache
+.streamlit/
+
+# Output files
+output/
+
+# OS files
+.DS_Store
