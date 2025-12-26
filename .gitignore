@@ -15,3 +15,6 @@ output/
 
 # OS files
 .DS_Store
+# API key setup scripts
+setup_api_key.bat
+setup_api_key.ps1
